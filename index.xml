@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Justin Marple</title>
-    <link>https://example.com/</link>
+    <link>https://jmarple.github.io/</link>
     <description>Recent content on Justin Marple</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 20 Aug 2017 21:38:52 +0800</lastBuildDate>
     
-        <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://jmarple.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>https://jmarple.github.io/about/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://jmarple.github.io/about/</guid>
       
         <description>&lt;p&gt;A maker, creator and professional engineer.  I love to build anything I get my hands on, specialising in robotics.&lt;/p&gt;
 
@@ -27,10 +27,10 @@
     
     <item>
       <title>Welcome!</title>
-      <link>https://example.com/2018/12/09/welcome/</link>
+      <link>https://jmarple.github.io/2018/12/09/welcome/</link>
       <pubDate>Sun, 09 Dec 2018 09:21:59 -0500</pubDate>
       
-      <guid>https://example.com/2018/12/09/welcome/</guid>
+      <guid>https://jmarple.github.io/2018/12/09/welcome/</guid>
       
         <description>&lt;p&gt;Welcome! This is my personal website where I will keep all my projects and posts up to date.&lt;/p&gt;
 </description>
@@ -39,27 +39,27 @@
     
     <item>
       <title>Projects</title>
-      <link>https://example.com/projects/</link>
+      <link>https://jmarple.github.io/projects/</link>
       <pubDate>Sun, 09 Dec 2018 09:21:49 -0500</pubDate>
       
-      <guid>https://example.com/projects/</guid>
+      <guid>https://jmarple.github.io/projects/</guid>
       
         <description>&lt;div style=&#34;height: 400px;&#34;&gt;
-    &lt;a href=&#34;https://example.com/project-combat-robot&#34; style=&#34;box-shadow: 0px 0px 10px 0px #CCC; text-align: center; float: left; margin: 10px; width: 150px;&#34; onmouseover=&#34;this.style.background=&#39;#F8F8F8&#39;;&#34; onmouseout=&#34;this.style.background=&#39;white&#39;&#34;&gt;
+    &lt;a href=&#34;https://jmarple.github.io/project-combat-robot&#34; style=&#34;box-shadow: 0px 0px 10px 0px #CCC; text-align: center; float: left; margin: 10px; width: 150px;&#34; onmouseover=&#34;this.style.background=&#39;#F8F8F8&#39;;&#34; onmouseout=&#34;this.style.background=&#39;white&#39;&#34;&gt;
         Combat Robots
-        &lt;img src=&#34;http://localhost:1313/images/combat2.png&#34; style=&#34;height:100px; padding: 5px; width: auto;&#34;/&gt;
+        &lt;img src=&#34;https://github.com/JMarple/jmarple.github.io/images/combat2.png&#34; style=&#34;height:100px; padding: 5px; width: auto;&#34;/&gt;
     &lt;/a&gt;
-    &lt;a href=&#34;https://example.com/project-micromouse&#34; style=&#34;box-shadow: 0px 0px 10px 0px #CCC; text-align: center; float: left; margin: 10px; width: 150px;&#34; onmouseover=&#34;this.style.background=&#39;#F8F8F8&#39;;&#34; onmouseout=&#34;this.style.background=&#39;white&#39;&#34;&gt;
+    &lt;a href=&#34;https://jmarple.github.io/project-micromouse&#34; style=&#34;box-shadow: 0px 0px 10px 0px #CCC; text-align: center; float: left; margin: 10px; width: 150px;&#34; onmouseover=&#34;this.style.background=&#39;#F8F8F8&#39;;&#34; onmouseout=&#34;this.style.background=&#39;white&#39;&#34;&gt;
         Micromouse
-        &lt;img src=&#34;http://localhost:1313/images/micromouse2.png&#34; style=&#34;height:100px; width: auto;&#34;; /&gt; 
+        &lt;img src=&#34;https://github.com/JMarple/jmarple.github.io/images/micromouse2.png&#34; style=&#34;height:100px; width: auto;&#34;; /&gt; 
     &lt;/a&gt;
-    &lt;a href=&#34;https://example.com/project-vex&#34; style=&#34;box-shadow: 0px 0px 10px 0px #CCC; text-align: center; float: left; margin: 10px; width: 150px;&#34; onmouseover=&#34;this.style.background=&#39;#F8F8F8&#39;;&#34; onmouseout=&#34;this.style.background=&#39;white&#39;&#34;&gt;
+    &lt;a href=&#34;https://jmarple.github.io/project-vex&#34; style=&#34;box-shadow: 0px 0px 10px 0px #CCC; text-align: center; float: left; margin: 10px; width: 150px;&#34; onmouseover=&#34;this.style.background=&#39;#F8F8F8&#39;;&#34; onmouseout=&#34;this.style.background=&#39;white&#39;&#34;&gt;
         Vex Robotics
-        &lt;img src=&#34;http://localhost:1313/images/vexproject.png&#34; style=&#34;height:100px; width: auto;&#34;; /&gt; 
+        &lt;img src=&#34;https://github.com/JMarple/jmarple.github.io/images/vexproject.png&#34; style=&#34;height:100px; width: auto;&#34;; /&gt; 
     &lt;/a&gt;
-    &lt;a href=&#34;https://example.com/project-senior-design-project&#34; style=&#34;box-shadow: 0px 0px 10px 0px #CCC; text-align: center; float: left; margin: 10px; width: 150px;&#34; onmouseover=&#34;this.style.background=&#39;#F8F8F8&#39;;&#34; onmouseout=&#34;this.style.background=&#39;white&#39;&#34;&gt;
+    &lt;a href=&#34;https://jmarple.github.io/project-senior-design-project&#34; style=&#34;box-shadow: 0px 0px 10px 0px #CCC; text-align: center; float: left; margin: 10px; width: 150px;&#34; onmouseover=&#34;this.style.background=&#39;#F8F8F8&#39;;&#34; onmouseout=&#34;this.style.background=&#39;white&#39;&#34;&gt;
         Senior Design Project
-        &lt;img src=&#34;http://localhost:1313/images/senior-design-project.png&#34; style=&#34;height:100px; width: auto;&#34;; /&gt; 
+        &lt;img src=&#34;https://github.com/JMarple/jmarple.github.io/images/senior-design-project.png&#34; style=&#34;height:100px; width: auto;&#34;; /&gt; 
     &lt;/a&gt;
 &lt;/div&gt;
 </description>

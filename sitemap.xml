@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<?xml-stylesheet type="text/xsl" href="https://example.com/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://jmarple.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://jmarple.github.io/about/</loc>
     <lastmod>2017-08-28T21:41:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/2018/12/09/welcome/</loc>
+    <loc>https://jmarple.github.io/2018/12/09/welcome/</loc>
     <lastmod>2018-12-09T09:21:59-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/projects/</loc>
+    <loc>https://jmarple.github.io/projects/</loc>
     <lastmod>2018-12-09T09:21:49-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://jmarple.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://jmarple.github.io/</loc>
     <lastmod>2017-08-28T21:41:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://jmarple.github.io/posts/</loc>
     <lastmod>2018-12-09T09:21:59-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://jmarple.github.io/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
