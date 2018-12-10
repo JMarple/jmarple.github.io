@@ -10,6 +10,20 @@
   </url>
   
   <url>
+    <loc>https://jmarple.github.io/project-micromouse/</loc>
+    <lastmod>2018-12-09T20:29:01-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmarple.github.io/project-combat-robot/</loc>
+    <lastmod>2018-12-09T16:42:41-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://jmarple.github.io/2018/12/09/welcome/</loc>
     <lastmod>2018-12-09T09:21:59-05:00</lastmod>
     <changefreq>weekly</changefreq>
