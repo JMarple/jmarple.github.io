@@ -24,6 +24,13 @@
   </url>
   
   <url>
+    <loc>https://jmarple.github.io/project-vex/</loc>
+    <lastmod>2018-12-17T11:38:49-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://jmarple.github.io/project-micromouse/</loc>
     <lastmod>2018-12-09T20:29:01-05:00</lastmod>
     <changefreq>weekly</changefreq>
