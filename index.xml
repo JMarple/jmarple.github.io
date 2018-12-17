@@ -26,6 +26,34 @@
     </item>
     
     <item>
+      <title>Misc</title>
+      <link>https://jmarple.github.io/project-misc/</link>
+      <pubDate>Mon, 17 Dec 2018 12:04:56 -0500</pubDate>
+      
+      <guid>https://jmarple.github.io/project-misc/</guid>
+      
+        <description>&lt;p&gt;Here is all the small side projects that I&amp;rsquo;ve done and some funny fails as well.&lt;/p&gt;
+
+&lt;p&gt;Coming soon.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Project Sdp</title>
+      <link>https://jmarple.github.io/project-sdp/</link>
+      <pubDate>Mon, 17 Dec 2018 11:46:48 -0500</pubDate>
+      
+      <guid>https://jmarple.github.io/project-sdp/</guid>
+      
+        <description>&lt;p&gt;For my senior design project, my team and I designed a low-cost baseball plate that could call balls and strikes more accurate then the average MLB umpire.&lt;/p&gt;
+
+&lt;p&gt;Details coming soon.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
       <title>Micromouse</title>
       <link>https://jmarple.github.io/project-micromouse/</link>
       <pubDate>Sun, 09 Dec 2018 20:29:01 -0500</pubDate>
@@ -45,8 +73,6 @@
 &lt;h2 id=&#34;venus&#34;&gt;Venus&lt;/h2&gt;
 
 &lt;h2 id=&#34;tbd&#34;&gt;TBD&lt;/h2&gt;
-
-&lt;p&gt;A brushless vacuum style mouse is in the works, however far from completion&lt;/p&gt;
 </description>
       
     </item>
@@ -88,13 +114,13 @@
 
 &lt;p&gt;&lt;img src=&#34;https://jmarple.github.io/images/combat2.jpg&#34; style=&#34;height:200px; padding: 5px; width: auto;&#34;/&gt;&lt;/p&gt;
 
-&lt;p&gt;Going 0-2 at AVC2018, Mowferno was my first featherweight and the most challenging combat robot I&amp;rsquo;ve built yet.  It featured a 8lb, 25&amp;rdquo; aluminum ovrhead bar with 4140 teeth.  The drive was composed of 4 seperate drive modules, each with a p60 gearbox, sk3 3536 1200kv brushless motor and 2&amp;rdquo; colson wheel.  Each motor was driven with HobbyKing 40A ESCs flashed with Simonk firmware.  Two Scorpion HK-4015 1070k brushless motors power the weapon, totalling 4.9kW peak power.&lt;/p&gt;
+&lt;p&gt;Going 0-2 at AVC2018, Mowferno was my first featherweight and the most challenging combat robot I&amp;rsquo;ve built yet.  It featured a 8lb, 25&amp;rdquo; aluminum overhead bar with 4140 teeth.  The drive was composed of 4 seperate drive modules, each with a p60 gearbox, sk3 3536 1200kv brushless motor and 2&amp;rdquo; colson wheel.  Each motor was driven with HobbyKing 40A ESCs flashed with Simonk firmware.  Two Scorpion HK-4015 1070k brushless motors powered the weapon, totalling 4.9kW peak power.&lt;/p&gt;
 
 &lt;h4 id=&#34;event-report&#34;&gt;Event report:&lt;/h4&gt;
 
 &lt;h4 id=&#34;avc2018-match-1&#34;&gt;AVC2018 - Match 1:&lt;/h4&gt;
 
-&lt;p&gt;This match I was against a low profile midcutter, while at first look seemed like might slip below my overhead spinner, fortunately was just tall enough for me to hit.  This was the only low profile bot at the event, so figures I get matched with it.  THe match started, and after the first hit, 3 motors came unplugged.  Here I discovered the hardway you need to tape bullet connectors together and all electronics need a &amp;ldquo;home&amp;rdquo;.  Taping down electronics isnt enough for these upper weight classes.&lt;/p&gt;
+&lt;p&gt;This first match I was against a low profile midcutter.  While at first look seemed like it might slip below my overhead spinner, it was fortunately just tall enough for me to hit.  This was the only low profile bot at the event, so figures I get matched with it first round!  The match started and after the first hit, 3 motors came unplugged.  Here I discovered the hardway you need tape or heatshrink to keep bullet connectors together and all electronics need a &amp;ldquo;home&amp;rdquo; so they don&amp;rsquo;t slide around so much.  Taping down electronics isnt enough for these upper weight classes like it is with my beetle.&lt;/p&gt;
 
 &lt;p&gt;The first match was ended in my own tapout, when the opposing robot ripped off my wedge.  This sheared 6 bolts and ruined 3 threaded holes.   The way you mount a wedge is just as important as the wedge itself.&lt;/p&gt;
 
@@ -125,11 +151,11 @@
 
 &lt;h4 id=&#34;match-2&#34;&gt;Match 2:&lt;/h4&gt;
 
-&lt;p&gt;The second match, now in the losers bracket, was against El Shaddai who was another drum spinner.  El Shaddai&amp;rsquo;s wheel was knocked off after the first hit.  This gave me a great deal of control over the hits I gave and took, so I continued the rest of the match expirementing with how the robot took and gave hits.  In general, I discovered gyroscopic precision is a great friend to overhead spinners, as the robot tends to pop straight up instead of flail itself around the arena uncontrollably, like Zero Traction V1.  I won this match by judges decision, but it shouldn&amp;rsquo;t ignore the fact I cornered myself and ended up flipping in the last few seconds of the match.&lt;/p&gt;
+&lt;p&gt;The second match, now in the losers bracket, was against El Shaddai who was another drum spinner.  El Shaddai&amp;rsquo;s wheel was knocked off after my first hit!  This gave me a great deal of control over the hits I gave and took, so I continued the rest of the match expirementing with how the robot took and gave hits.  In general, I discovered gyroscopic precision is a great friend to overhead spinners, as the robot tends to pop straight up instead of flail itself around the arena uncontrollably, like Zero Traction V1.  I won this match by judges decision, but I shouldn&amp;rsquo;t ignore the fact I cornered myself and ended up flipping in the last few seconds of the match.&lt;/p&gt;
 
 &lt;h4 id=&#34;match-3&#34;&gt;Match 3:&lt;/h4&gt;
 
-&lt;p&gt;This third match was against Thunder Child, a strong kit-bot that I knew I would struggle against.  Before the match I discovered some damanged that caused my drive train to only be able to move forward and to the left.  V3 of ZT would need to have far greater clearences on the drive, as wheels rubbing against their mounts ended up greating these issues.  Knowing this, I went into the match to try to KO, as Thunder Child would definitely beat me in control.  The match went predictably, with TC taking a few hits but mostly getting under my bot and ramming me into the wall.  Edventually I tapped out as I had lost all control of my bot, with the spinner at full speed.  After reseting my RX several times, it was determined there was no way to stop the robot, so we had to wait about 5 minuts for the battery to die before removing the robots from the arena.&lt;/p&gt;
+&lt;p&gt;This third match was against Thunder Child, a strong kit-bot that I knew I would struggle against.  Before the match I discovered some damanged that caused my drive train to only be able to move forward and to the left.  V3 of ZT would need to have far greater clearences on the drive, as wheels rubbing against their mounts ended up creating these issues.  Knowing this, I went into the match to try to KO, as Thunder Child would definitely beat me in control.  The match went predictably, with TC taking a few hits but mostly getting under my bot and ramming me into the wall.  Edventually I tapped out as I had lost all control of my bot, with the spinner at full speed.  After reseting my RX several times, it was determined there was no way to stop the robot, so we had to wait about 5 minutes for the battery to die before removing the robots from the arena.&lt;/p&gt;
 
 &lt;p&gt;Losing control of the robot was later determined to be as following.  Before this match, I had moved the motor wires to make some adjustments.  These wires ended up being exposed to the weapon during the fight and one phase got clipped. This caused shorting and the IMU hardware to brownout and not recover correctly.  New software would need to be written for the &amp;ldquo;quadcopter mixer&amp;rdquo; that handles this error.  However, the first mistake was allowing the wires to have the ability to be clipped by the weapon :)&lt;/p&gt;
 
@@ -173,8 +199,8 @@
       
       <guid>https://jmarple.github.io/projects/</guid>
       
-        <description>&lt;div style=&#34;height: 400px;&#34;&gt;
-    &lt;a href=&#34;https://jmarple.github.io/project-combat-robot-new&#34; style=&#34;box-shadow: 0px 0px 10px 0px #CCC; text-align: center; float: left; margin: 10px; width: 150px;&#34; onmouseover=&#34;this.style.background=&#39;#F8F8F8&#39;;&#34; onmouseout=&#34;this.style.background=&#39;white&#39;&#34;&gt;
+        <description>&lt;div style=&#34;height: 500px;&#34;&gt;
+    &lt;a href=&#34;https://jmarple.github.io/project-combat-robot&#34; style=&#34;box-shadow: 0px 0px 10px 0px #CCC; text-align: center; float: left; margin: 10px; width: 150px;&#34; onmouseover=&#34;this.style.background=&#39;#F8F8F8&#39;;&#34; onmouseout=&#34;this.style.background=&#39;white&#39;&#34;&gt;
         Combat Robots
         &lt;img src=&#34;https://jmarple.github.io/images/combat2.png&#34; style=&#34;height:100px; padding: 5px; width: auto;&#34;/&gt;
     &lt;/a&gt;
@@ -184,10 +210,14 @@
     &lt;/a&gt;
     &lt;a href=&#34;https://jmarple.github.io/project-vex&#34; style=&#34;box-shadow: 0px 0px 10px 0px #CCC; text-align: center; float: left; margin: 10px; width: 150px;&#34; onmouseover=&#34;this.style.background=&#39;#F8F8F8&#39;;&#34; onmouseout=&#34;this.style.background=&#39;white&#39;&#34;&gt;
         Vex Robotics
-        &lt;img src=&#34;https://jmarple.github.io/images/vexproject.png&#34; style=&#34;height:100px; width: auto;&#34;; /&gt; 
+        &lt;img src=&#34;https://jmarple.github.io/images/vex3.jpg&#34; style=&#34;height:100px; width: auto;&#34;; /&gt; 
     &lt;/a&gt;
-    &lt;a href=&#34;https://jmarple.github.io/project-senior-design-project&#34; style=&#34;box-shadow: 0px 0px 10px 0px #CCC; text-align: center; float: left; margin: 10px; width: 150px;&#34; onmouseover=&#34;this.style.background=&#39;#F8F8F8&#39;;&#34; onmouseout=&#34;this.style.background=&#39;white&#39;&#34;&gt;
-        Senior Design Project
+    &lt;a href=&#34;https://jmarple.github.io/project-sdp&#34; style=&#34;box-shadow: 0px 0px 10px 0px #CCC; text-align: center; float: left; margin: 10px; width: 150px;&#34; onmouseover=&#34;this.style.background=&#39;#F8F8F8&#39;;&#34; onmouseout=&#34;this.style.background=&#39;white&#39;&#34;&gt;
+        SDP
+        &lt;img src=&#34;https://jmarple.github.io/images/senior-design-project.png&#34; style=&#34;height:100px; width: auto;&#34;; /&gt; 
+    &lt;/a&gt;
+    &lt;a href=&#34;https://jmarple.github.io/project-misc&#34; style=&#34;box-shadow: 0px 0px 10px 0px #CCC; text-align: center; float: left; margin: 10px; width: 150px;&#34; onmouseover=&#34;this.style.background=&#39;#F8F8F8&#39;;&#34; onmouseout=&#34;this.style.background=&#39;white&#39;&#34;&gt;
+        Misc
         &lt;img src=&#34;https://jmarple.github.io/images/senior-design-project.png&#34; style=&#34;height:100px; width: auto;&#34;; /&gt; 
     &lt;/a&gt;
 &lt;/div&gt;
